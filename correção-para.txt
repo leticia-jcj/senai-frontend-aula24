@@ -1,0 +1,13 @@
+correção estrutura de repeticção PARA
+
+algoritmo "infome varios números"
+
+var
+numero: inteiro
+inicio
+numero <- 1
+enquanto (numero <> 0) faca
+escreva("Numero")
+leia(n)
+fimenquanto
+fimalgoritmo
